@@ -1,2 +1,2 @@
 # peterolivo.github.io
-! [image](./testanimate.svg)
+![image](./testanimate.svg)
